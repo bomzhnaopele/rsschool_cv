@@ -1,1 +1,1 @@
-# rsschool_cv
+# https://bomzhnaopele.github.io/rsschool-cv/cv
