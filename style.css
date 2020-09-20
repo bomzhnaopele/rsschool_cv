@@ -1,0 +1,39 @@
+header{
+	width: 1400px;
+	height: 60px;
+	background: #ffc401b2;
+	display: flex;
+	margin-left: 65px;
+	
+}
+
+.heade {
+	text-align: center;
+	font-size: 18px;
+	margin-left: 600px;
+	text-decoration: solid;
+}
+body {
+	font-family: 'Open Sans', sans-serif;
+	width: 1400px}
+	
+.intro {
+	text-decoration: underline;
+	font-size: 14px;
+	margin-left: 0px;
+	text-align: center;
+	
+}
+
+.listi{
+margin-left: 400px;
+font-style: italic;
+font-size: 16px;
+}
+
+main{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+
+}
